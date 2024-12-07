@@ -1,0 +1,28 @@
+/*
+
+rgb(255, 167, 167) - Light pink
+
+odd num are 
+1
+3
+5
+*/
+
+.odd {
+    background-color: rgb(255, 167, 167);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#second_element{
+    color: hsl(240, 100%, 50%);
+    font-size: 36px
+
+}
+
+.bigger {
+    font-size: 24px;
+}
+
+#fourth_element {
+    background-color: rgb(144, 238, 144);
+}
